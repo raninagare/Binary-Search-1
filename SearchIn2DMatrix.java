@@ -4,7 +4,6 @@
 // Any problem you faced while coding this :No
 
 
-
 /**
 Five ways to solve the problem.
 1. Brute force: Traverse over all the elements. 
